@@ -1,0 +1,16 @@
+next commands after connection
+
+use MYSQL_DATABASE
+
+Select count(*) from Covid19. TimeSeries; 
+Select * from Covid19. TimeSeries limit 5; 
+
+
+
+links to video
+part 1
+https://drive.google.com/file/d/16xCHskRwVPrsKvNfrlOdC-tvHkdfvxtp/view
+
+part 2
+https://drive.google.com/file/d/16xCHskRwVPrsKvNfrlOdC-tvHkdfvxtp/view
+
